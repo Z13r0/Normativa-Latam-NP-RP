@@ -3,24 +3,12 @@ site:
   title: Latam New Project RP
   structure:
     - type: section
-      key: section-1
-      title: Latam New Project RP
-      path: latam-new-project-rp
-      default: true
-      children:
-        - type: space
-          key: space-1
-          title: Docs
-          path: docs
-          default: true
-          content:
-            directory: ./docs
-    - type: section
       key: section-2
       title: Normativa General
       path: untitled
       description: ""
       icon: tickets
+      default: true
       children:
         - type: space
           key: space-2
