@@ -4,3 +4,4 @@
 * [🔫 NORMAS DE BANDAS Y ORGANIZACIONES](normas-de-bandas-y-organizaciones.md)
 * [🚓 NORMAS DE POLICÍA](normas-de-policia.md)
 * [🚑 NORMAS DE EMS](normas-de-ems.md)
+* [🚫 Normativa de Sanciones](normativa-de-sanciones.md)
